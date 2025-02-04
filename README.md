@@ -1,2 +1,2 @@
 # MEng-Team-Project
-Repository for all the code work done for our MEng Team project.
+Repository of all the Pyhton coding done for simulation and implementation of our MEng Team project.
